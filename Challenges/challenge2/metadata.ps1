@@ -1,4 +1,4 @@
-Select-AzSubscription -SubscriptionId 'f2851833-08ee-4fb5-b9ab-5146fd57e53c'
+Select-AzSubscription -SubscriptionId 'test subscriptipon id'
 $VMs = Get-AzVM
 $data = @()
 foreach($VirtualMachine in $VMs){
