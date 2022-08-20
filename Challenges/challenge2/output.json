@@ -1,0 +1,13 @@
+{
+  "SL_no": "0",
+  "ResourceGroup Name": "RG",
+  "Server Name": "VM-RG",
+  "Size": "Standard_B2s",
+  "OS": "Windows",
+  "ProvisioningState": "Succeeded",
+  "Location": "westeurope",
+  "Virtual Network": "Vnet",
+  "Subnet": "subnet1",
+  "IP": "10.82.129.68",
+  "DiskSize": "128"
+}
