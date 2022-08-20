@@ -1,0 +1,7 @@
+Enter the nested object: {“x”:{“y”:{“z”:”a”}}}
+Enter the key in the foramt a/b/c: x/y/z
+a
+
+Enter the nested object: {“a”:{“b”:{“c”:”d”}}}
+Enter the key in the foramt a/b/c: a/b/c
+d
